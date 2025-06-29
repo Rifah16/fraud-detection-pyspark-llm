@@ -22,7 +22,7 @@ fraud-detection-pyspark-llm/
 │   └── fraud_detection_pyspark_llm.ipynb
 ├── src/
 │   └── embedding_utils.py           
-├── data/                            # sample or synthetic data
+├── data/                            # synthetic data
 ├── requirements.txt
 └── README.md
 ```
